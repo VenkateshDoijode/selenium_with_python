@@ -1,5 +1,5 @@
 # Selenium WebDriver with Python 3.x :mortar_board:
-![alt text](https://github.com/venkywarriors619/Selenium_java_Advanced/blob/master/Venkatesware/123.png "Selenium WebDriver with Python 3.x ")
+
 ###### This Project has selenium webdriver with python 3.x from basic to advanced level
 
 **Topics covered:pencil:**
@@ -57,3 +57,15 @@
 * At the end of this course, You will get complete knowledge on Selenium Webdriver Automation with Python
 * You will be in a position to automate any Web Application over the Net using Selenium
 * You will be able to write quality code on Python to design robust Selenium Testcases
+  
+## 🤝 Contributing
+
+Contributions are welcome! If you have ideas, improvements, bug fixes, or new features, feel free to contribute.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+Created and maintained by [Venkateshwara Doijode](https://github.com/VenkateshDoijode).
